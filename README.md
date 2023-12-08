@@ -1,6 +1,4 @@
-# Welcome to Streamlit!
+# Real-time Sentiment Analysis Dashboard
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
+In this project, you will find the dashboard built using Streamlit and Python to monitore the real time tweets scraped using #Jungkook_GOLDEN.
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
